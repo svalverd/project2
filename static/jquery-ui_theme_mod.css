@@ -1,0 +1,21 @@
+/* Extract from jquery UI themes css
+original CSS at http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css
+Copyright jQuery Foundation and other contributors; Licensed MIT */
+
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active,
+a.ui-button:active,
+.ui-button:active,
+.ui-button.ui-state-active:hover {
+	border: 1px solid #4682b4;
+	background: #4682b4;
+	font-weight: normal;
+	color: #ffffff;
+}
+
+.ui-icon-background,
+.ui-state-active .ui-icon-background {
+	border: #4682b4;
+	background-color: #ffffff;
+}

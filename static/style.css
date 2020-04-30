@@ -1,0 +1,29 @@
+#map { height: 450px;}
+#heading {font-size: 2rem; color: whitesmoke;}
+
+.marker-cluster-small {
+    background-color: rgba(166, 189, 219, 0.6) !important;
+    }
+    .marker-cluster-small div {
+    background-color: rgba(166, 189, 219, 0.6) !important;
+    }
+    .marker-cluster-medium {
+    background-color: rgba(28, 144, 153, 0.6) !important;
+    }
+    .marker-cluster-medium div {
+    background-color: rgba(28, 144, 153, 0.6) !important;
+    }
+    .marker-cluster-large {
+    background-color: rgba(12, 75, 80, 0.6) !important;
+    }
+    .marker-cluster-large div {
+    background-color: rgba(12, 75, 80, 0.6) !important;
+    }
+
+.another-popup .leaflet-popup-content-wrapper {
+  background: #e6e9e9;
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  line-height: 20px;
+  border-radius: 21px;
+}
